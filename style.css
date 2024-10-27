@@ -77,14 +77,12 @@ h1 {
 .preparation-time-title {
   color: var(--Rose-800);
   font-weight: var(--fw-700);
-  margin: 0;
-  padding: 0.4em;
-  padding-bottom: 1em;
-  padding-top: 0.4em;
+  font-size: 1.2em;
+  padding-left: 0.5em;
 }
 
 .recipe-preparation > ul {
-  margin: 0;
+  margin-top: 1em;
   padding: 0 2em;
 }
 .recipe-preparation > ul > li {
